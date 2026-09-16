@@ -26,14 +26,16 @@ This system is used to store student records — including their ID, name, age, 
 - Exception Handling (try-catch)
 
 ## Project Structure
+
+```
 Student Management System/
 ├── src/
-│ ├── Student.java → Represents a single student (fields, constructor, getters/setters)
-│ ├── StudentManager.java → Manages the list of students (add, view, search, update, delete, save, load)
-│ └── Main.java → Runs the program, handles the menu and user input
+│   ├── Student.java          → Represents a single student (fields, constructor, getters/setters)
+│   ├── StudentManager.java   → Manages the list of students (add, view, search, update, delete, save, load)
+│   └── Main.java              → Runs the program, handles the menu and user input
 ├── .gitignore
 └── README.md
-
+```
 
 ## How to Run
 
