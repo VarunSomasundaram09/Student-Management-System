@@ -1,4 +1,4 @@
-# Student Record Manager
+# Student Management System
 
 A console-based Student Management System built in Java, using Object-Oriented Programming, ArrayList, and File Handling. This project was built step-by-step as a learning exercise to understand core Java and OOP concepts in a real, working application.
 
